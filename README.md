@@ -17,7 +17,7 @@ dbflute.github.io
 両方の機能を利用することで最大の効果を得られますが、開発運用支援ツールの機能だけを利用することも可能であり、様々なアーキテクチャと組み合わせて利用することもできます。
 
 ## DBFlute セットアップ方法
-1. [Maven DBFlute Plugin でコマンドからセットアップ](http://dbflute.seasar.org/ja/environment/setup/maven.html "Maven DBFlute Plugin でコマンドからセットアップ") ※Java8 (1.1.x) はこちら
+1. [Maven DBFlute Plugin でコマンドからセットアップ](http://dbflute.seasar.org/ja/environment/setup/maven.html "Maven DBFlute Plugin でコマンドからセットアップ") &color(green) { ※Java8 (1.1.x) はこちら　｝
     - Maven の pom.xml に必要な情報を記述し、DBFluteクライアントを作成します。
 2. [EMecha (Eclipse Plugin) で Eclipse にてセットアップ ](http://dbflute.seasar.org/ja/environment/setup/emecha.html "EMecha (Eclipse Plugin) で Eclipse にてセットアップ ") ※Java6,7 (1.0.x) はこちら
     - Eclipse上でウィザード画面から必要な情報を入力し、DBFluteクライアント作成とDBFluteモジュールのダウンロードと配置が可能です。 (Java版の1.0.x用のみ、Java8の1.1.xからは別の方法で)
