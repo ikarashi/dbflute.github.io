@@ -3,7 +3,7 @@ dbflute.github.io
 
 
 ## DBFlute とは
-### **DB変更に強い** をテーマにした開発支援ツール
+### DB変更に強いをテーマにした開発支援ツール
 - リーン・スタートアップ＆インクリメンタル開発
 - 設計しながら実装する開発 (納期の短い開発)
 
@@ -14,7 +14,7 @@ dbflute.github.io
 - **DB管理支援ツール**
     - DB環境構築自動化や履歴管理など、DB変更の運用上の悩みを解決
 
-    両方の機能を利用することで最大の効果を得られますが、開発運用支援ツールの機能だけを利用することも可能であり、様々なアーキテクチャと組み合わせて利用することもできます。
+両方の機能を利用することで最大の効果を得られますが、開発運用支援ツールの機能だけを利用することも可能であり、様々なアーキテクチャと組み合わせて利用することもできます。
 
 ## DBFlute セットアップ方法
 1. [Maven DBFlute Plugin でコマンドからセットアップ](http://dbflute.seasar.org/ja/environment/setup/maven.html "Maven DBFlute Plugin でコマンドからセットアップ") ※Java8 (1.1.x) はこちら
@@ -25,19 +25,19 @@ dbflute.github.io
     - DBFluteエンジンをサイトからダウンロードし、その中に含まれているDBFluteクライアントのテンプレートを手動修正します。他の方法が利用できないときのための方法です。
 
 ## DBFlute 使い方
-### チュートリアル
+#### チュートリアル
 - [アーキテクトのためのチュートリアル](http://dbflute.seasar.org/ja/tutorial/architect.html "アーキテクトのためのチュートリアル")
 - [ディベロッパーのためのチュートリアル](http://dbflute.seasar.org/ja/tutorial/developer.html "ディベロッパーのためのチュートリアル")
 - [ひとめでDBFlute](http://dbflute.seasar.org/ja/tutorial/hitomeflute.html "ひとめでDBFlute")
 
-### 機能マニュアル
+#### 機能マニュアル
 DBFluteの機能に関するマニュアル(機能マニュアル)です。
 - [自動生成ツール](http://dbflute.seasar.org/ja/manual/function/generator/index.html "自動生成ツール") メタ情報からクラスを自動生成する
 - [O/Rマッパ](http://dbflute.seasar.org/ja/manual/function/ormapper/index.html "O/Rマッパ") アプリケーション上でDBにアクセスする
 - [現場フィット](http://dbflute.seasar.org/ja/manual/function/genbafit/index.html "現場フィット") 様々な局面で現場にフィットした支援
 - [支援ツール](http://dbflute.seasar.org/ja/manual/function/helper/index.html "支援ツール") EclipseプラグインやMavenプラグインなど
 
-### リファレンス
+#### リファレンス
 機能マニュアルを補完する様々な参考資料(リファレンス)です。
 - [DBMS Way](http://dbflute.seasar.org/ja/manual/reference/dbway/index.html "DBMS Way") DBMSごとの取扱い
 - [DI Container Way](http://dbflute.seasar.org/ja/manual/reference/diway/index.html "DI Container Way") DIコンテナごとの取扱い
@@ -45,7 +45,7 @@ DBFluteの機能に関するマニュアル(機能マニュアル)です。
 - [DBFlute Dictionary](http://dbflute.seasar.org/ja/manual/reference/dictionary/index.html "DBFlute Dictionary") DBFluteの世界で利用される用語の辞書
 - [DBFlute Example](http://dbflute.seasar.org/ja/manual/reference/example/index.html "DBFlute Example") DBFluteを使ったプロジェクトの実装例
 
-### トピックス
+#### トピックス
 DBFluteの周りを取り巻く様々なトピックです。
 - [DB Design]( "DB Design") DB設計
 - [Programming]( "Programming") プログラミング
